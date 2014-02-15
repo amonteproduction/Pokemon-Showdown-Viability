@@ -18,7 +18,7 @@ Banlist
 
 
 S tier AKA Top Tier 12 out of 12
-===========================
+------------------------------------------------------------------------
 -Aegislash
 -Azumarill
 -Charizardite Y
@@ -55,7 +55,7 @@ S tier AKA Top Tier 12 out of 12
 -Celebi
 
 A AKA Mid Tier 9 out of 12
-===========================
+------------------------------------------------------------------------
 -Alakazam
 -Blissey
 -Breloom
@@ -81,13 +81,14 @@ A AKA Mid Tier 9 out of 12
 -Arcanine
 
 B AKA Low Tier 6 out of 12
-===========================
+------------------------------------------------------------------------
 -Charizard
 -Kangaskhan
 -Smeargle
 
 C AKA Bottom Tier 3 out of 12
--
+------------------------------------------------------------------------
+- tba
 
 Pokémon Showdown Vanilla
 ========================================================================
